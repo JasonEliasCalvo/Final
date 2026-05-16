@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Metaverso-0.1.0";
 const contentToCache = [
     "Build/cee3bfd5589651a8b16e2a12b8abe5b3.loader.js",
-    "Build/f307ce38543613e21aed208b04a435c3.framework.js.unityweb",
-    "Build/ef3d40a92dbd35f6861b79c1e89984d6.data.unityweb",
-    "Build/2931a53a168bf54b29e8966514cc3f81.wasm.unityweb",
+    "Build/635529715d77e626205860c5cbef91ac.framework.js.unityweb",
+    "Build/2b147e9f2544aca0d27dd1def0b55b08.data.unityweb",
+    "Build/22ed07e5ef4597adbb2717904a7d1994.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
